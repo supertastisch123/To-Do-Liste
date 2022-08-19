@@ -7,7 +7,7 @@
 
 
 - git
-- responsiv mal testen?ww
+- responsiv mal testen?wwwwww
 */
 
 var hinzu = document.getElementById("hinzu");
