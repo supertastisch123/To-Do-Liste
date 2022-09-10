@@ -21,6 +21,7 @@ h1{
     box-shadow: 5px 5px 16px 2px rgba(0,0,0,0.32);
 
     width: 500px;
+    height: 20px;
 
     position: absolute;
 	top: 20%;
@@ -45,7 +46,23 @@ h1{
 
 }
 
+#entf{
+
+    display: grid;
+    width: 100px;
+
+}
+
+#punkt{
+    width: 200px;
+
+
+}
+
 #liste{
+    display: grid;
+    grid-template-columns: 200px 100px;
+
 
     position: absolute;
 	top: 25%;
